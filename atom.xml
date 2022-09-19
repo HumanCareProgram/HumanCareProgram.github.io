@@ -6,7 +6,7 @@
   <link href="https://this-is.hanzhongzi.top/atom.xml" rel="self"/>
   
   <link href="https://this-is.hanzhongzi.top/"/>
-  <updated>2022-09-19T11:20:57.968Z</updated>
+  <updated>2022-09-19T11:26:37.962Z</updated>
   <id>https://this-is.hanzhongzi.top/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://this-is.hanzhongzi.top/uncategorized/Ansible/"/>
-    <id>https://this-is.hanzhongzi.top/uncategorized/Ansible/</id>
-    <published>2022-09-19T11:20:57.968Z</published>
-    <updated>2022-09-19T11:20:57.968Z</updated>
+    <title>Anisble快速入门</title>
+    <link href="https://this-is.hanzhongzi.top/operation/anisble/Ansible/"/>
+    <id>https://this-is.hanzhongzi.top/operation/anisble/Ansible/</id>
+    <published>2022-08-16T02:32:11.000Z</published>
+    <updated>2022-09-19T11:26:37.962Z</updated>
     
     
       
@@ -34,6 +34,20 @@
     
     
     
+    <category term="operation" scheme="https://this-is.hanzhongzi.top/categories/operation/"/>
+    
+    <category term="anisble" scheme="https://this-is.hanzhongzi.top/categories/operation/anisble/"/>
+    
+    
+    <category term="TCP" scheme="https://this-is.hanzhongzi.top/tags/TCP/"/>
+    
+    <category term="网络" scheme="https://this-is.hanzhongzi.top/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="系统" scheme="https://this-is.hanzhongzi.top/tags/%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="数据包" scheme="https://this-is.hanzhongzi.top/tags/%E6%95%B0%E6%8D%AE%E5%8C%85/"/>
+    
+    <category term="分析" scheme="https://this-is.hanzhongzi.top/tags/%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
