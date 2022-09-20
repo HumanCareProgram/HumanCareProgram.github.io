@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>HanZhongZi&#39;s Home</title>
+  <title>HanZhongZi&#39;s Notes</title>
   <icon>https://this-is.hanzhongzi.top/icon.png</icon>
-  <subtitle>全村的希望！</subtitle>
+  <subtitle>胡编一通，乱写一气</subtitle>
   <link href="https://this-is.hanzhongzi.top/atom.xml" rel="self"/>
   
   <link href="https://this-is.hanzhongzi.top/"/>
-  <updated>2022-09-20T09:06:37.073Z</updated>
+  <updated>2022-09-20T09:43:23.679Z</updated>
   <id>https://this-is.hanzhongzi.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://this-is.hanzhongzi.top/operation/anisble/Ansible/"/>
     <id>https://this-is.hanzhongzi.top/operation/anisble/Ansible/</id>
     <published>2022-08-16T02:32:11.000Z</published>
-    <updated>2022-09-20T09:06:37.073Z</updated>
+    <updated>2022-09-20T09:43:23.679Z</updated>
     
     
       
